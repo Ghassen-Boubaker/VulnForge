@@ -14,4 +14,9 @@ An automated web vulnerability scanning tool written in Python for security audi
 ```bash
 git clone [https://github.com/Ghassen-Boubaker/VulnForge.git](https://github.com/Ghassen-Boubaker/VulnForge.git)
 cd VulnForge
-pip install -r requirements.txt
+pip install -r requirements.tx
+Quick Start
+python3 vulnforge.py -u [https://example.com](https://example.com)
+
+License
+This project is licensed under the MIT License - see the LICENSE file for details.
